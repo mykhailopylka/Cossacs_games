@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "academia";
+  src: url("academia_libera-webfont.woff2") format("woff2"),
+    url("academia_libera-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+/*    yanonekaffeesatz ====================  */
+@font-face {
+  font-family: "YanoneKaffeesatz";
+  src: url("yanonekaffeesatz.woff2") format("woff2"),
+    url("yanonekaffeesatz.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*    Muliblack. ====================  */
+@font-face {
+  font-family: "Muli";
+  src: url("Muliblack.woff2") format("woff2"),
+    url("Muliblack.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
