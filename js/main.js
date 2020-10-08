@@ -94,7 +94,7 @@ $(document).ready(function () {
     slidesToScroll: 1,
     fade: true,
     customPaging: function (slider, i) {
-      return '<img src="../images/slide-dot.svg" /><img src="../images/slide-dot-active.svg" />';
+      return '<img src="images/slide-dot.svg" /><img src="images/slide-dot-active.svg" />';
     },
   });
 });
